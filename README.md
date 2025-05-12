@@ -27,8 +27,8 @@
 1. **Loyihani klonlash:**
 
 ```bash
-git clone https://github.com/username/taxi-bot.git
-cd taxi-bot
+git clone https://github.com/akki18/taxi.git
+cd taxi
 npm install
 ```
 

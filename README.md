@@ -1,6 +1,6 @@
 # Taxi Bot 🚕 (Telegram uchun buyurtma bot)
 
-**Taxi Bot** — bu Telegram orqali taksi chaqirish, buyurtmalarni boshqarish va mijozlar bilan aloqani avtomatlashtirishga mo‘ljallangan bot. Bot haydovchilar va mijozlar uchun alohida funksiyalarga ega bo‘lib, real biznes ehtiyojlariga moslashgan.
+**Taxi Bot** — bu Telegram bot orqali taksi chaqirish, buyurtmalarni boshqarish va mijozlar bilan aloqani avtomatlashtirishga mo‘ljallangan bot. Bot haydovchilar va mijozlar uchun alohida funksiyalarga ega bo‘lib, real biznes ehtiyojlariga moslashgan.
 
 ---
 
